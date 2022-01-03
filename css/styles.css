@@ -102,6 +102,8 @@ a:hover{
 hr{
   border-style: dotted;
   border-bottom:none;
+  border-left:none;
+  border-right:none;
   height:2px;
   border-width:5px;
   width:10%;
